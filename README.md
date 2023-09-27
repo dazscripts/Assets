@@ -1,9 +1,9 @@
-Roblox Recording Module
+# Roblox Recording Module
     
-    Description:
+## Description:
     This module allows for recording and playback of player movements and animations.
     
-    Features:
+### Features:
     - Start and stop recording
     - Play recordings
     - Support for multiple recordings
@@ -16,7 +16,7 @@ Roblox Recording Module
     - Statistics
     - Playback settings
     
-    Methods:
+### Methods:
     - StartRecording(metaData)
     - StopRecording()
     - PlayRecording(sessionId)
@@ -28,7 +28,7 @@ Roblox Recording Module
     - BatchSave(sessionIds)
     - GetStats(sessionId)
     
-    Settings:
+### Settings:
     - fps: Frame rate for recording
     - timeLimit: Maximum time for recording
     - playbackSpeed: Speed for playback
