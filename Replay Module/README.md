@@ -4,27 +4,18 @@
 > This module allows for recording and playback of player movements and animations.
     
 ### Features:
-> Start and stop recording
 
-> Play recordings
-
-> Support for multiple recordings
-
-> Save and load recordings
-
-> Metadata and time markers
-
-> Audio support (mocked)
-
-> Optimization settings
-
-> Speed control
-
-> Batch operations
-
-> Statistics
-
-> Playback settings
+    Start and stop recording
+    Play recordings
+    Support for multiple recordings
+    Save and load recordings
+    Metadata and time markers
+    Audio support (mocked)
+    Optimization settings
+    Speed control
+    Batch operations
+    Statistics
+    Playback settings
     
 ### Methods:
     - StartRecording(metaData)
