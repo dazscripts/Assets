@@ -1,4 +1,4 @@
-    #Roblox Recording Module
+Roblox Recording Module
     
     Description:
     This module allows for recording and playback of player movements and animations.
